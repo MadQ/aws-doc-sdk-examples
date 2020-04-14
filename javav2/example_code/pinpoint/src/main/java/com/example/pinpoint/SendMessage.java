@@ -54,7 +54,7 @@ public class SendMessage {
     // The Amazon Pinpoint project/application ID to use when you send this message.
     // Make sure that the SMS channel is enabled for the project or application
     // that you choose.
-    public static String appId = "end an appID value";
+    public static String appId = "enter an appID value";
 
     // The type of SMS message to send. If you plan to send
     // time-sensitive content, specify TRANSACTIONAL. If you plan to send
